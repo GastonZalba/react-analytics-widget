@@ -1,5 +1,4 @@
 node_modules
 es
-lib
 demo/dist
 src/**/*.css
